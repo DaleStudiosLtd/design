@@ -1,0 +1,33 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+::-moz-selection {
+  color: var(--white);
+  background: var(--dark-grey);
+}
+
+::selection {
+  color: var(--white);
+  background: var(--dark-grey);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.logo {
+  filter: drop-shadow(0 1.5px 1.5px var(--light-grey));
+}
