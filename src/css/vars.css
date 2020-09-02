@@ -1,0 +1,62 @@
+:root {
+  --sans: "Helvetica Neue", "-apple-system", "BlinkMacSystemFont";
+  --sm: "640px";
+  --md: "768px";
+  --lg: "1024px";
+  --xl: "1280px";
+  --white: #ffffff;
+  --black: #000000;
+  --light-grey: #c8c8c8;
+  --mid-grey: #737373;
+  --dark-grey: #202022;
+  --green: #86c828;
+  --magenta: #ed1e79;
+  --orange: #ffa91f;
+  --yellow: #fce000;
+  --mint: #00fea3;
+  --blue: #076cf1;
+
+  --xs-font-size: 0.563rem;
+  --xs-letter-spacing: 0.169rem;
+  --xs-line-height: 1.875rem;
+
+  --sm-font-size: 0.75rem;
+  --sm-letter-spacing: -0.02em;
+  --sm-line-height: 1.5;
+
+  --base-font-size: 1rem;
+  --base-letter-spacing: normal;
+  --base-line-height: 1.5;
+
+  --lg-font-size: 1.125rem;
+  --lg-letter-spacing: normal;
+  --lg-line-height: 1.5;
+
+  --xl-font-size: 1.25rem;
+  --xl-letter-spacing: 0.25em;
+  --xl-line-height: 1.5;
+
+  --xxl-font-size: 1.5rem;
+  --xxl-letter-spsacign: ;
+  --xxl-line-height: ;
+
+  --xxxl-font-size: 1.875rem;
+  --xxxl-letter-spacign: ;
+  --xxxl-line-height: ;
+
+  --xxxxl-font-size: 2.25rem;
+  --xxxxl-letter-spacign: ;
+  --xxxxl-line-height: ;
+
+  --xxxxxl-font-size: 3rem;
+  --xxxxxl-letter-spacign: ;
+  --xxxxxl-line-height: ;
+
+  --xxxxxxl-font-size: 4rem;
+  --xxxxxxl-letter-spacign: ;
+  --xxxxxxl-line-height: ;
+
+  --xxxxxxxl-font-size: 5rem;
+  --xxxxxxxl-letter-spacign: ;
+  --xxxxxxxl-line-height: ;
+}
